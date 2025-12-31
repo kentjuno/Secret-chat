@@ -1,0 +1,7 @@
+{
+  "name": "GhostLink - Secret P2P Chat",
+  "description": "Ứng dụng chat ẩn danh Peer-to-Peer. Không lưu trữ máy chủ, mã hóa đầu cuối, an toàn tuyệt đối.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
